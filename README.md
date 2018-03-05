@@ -8,4 +8,5 @@ This short script contains:
 - changing categorical data, 
 - creating dummy variables, 
 - feature scalling, 
-- creating simple neural network with keras.
+- creating simple neural network with keras (titanic_ann.py)
+- implementing basic forms of machine learning algorithms for classification such as Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Naive Bayes, Random Forest Classification
